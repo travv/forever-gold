@@ -1,0 +1,12 @@
+# local state and outputs
+data/
+reports/
+plan/*.json
+!plan/.gitkeep
+config.local.json
+addon/ForeverGold/PlanData.lua
+tests/out/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

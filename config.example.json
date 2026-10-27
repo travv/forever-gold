@@ -1,0 +1,15 @@
+{
+  "roots": [
+    {"name": "pc", "path": "C:/Program Files (x86)/World of Warcraft/_forever_"},
+    {"name": "vm", "path": "//UNRAID-VM/wow/_forever_"}
+  ],
+  "region": "us",
+  "home_house": "Alliance",
+  "nest_egg_copper": 5000000,
+  "cut": {"faction": 0.05, "neutral": 0.15},
+  "post_mode": "match",
+  "undercut_copper": 100,
+  "professions": {"Herbalism": 1, "Skinning": 1, "Alchemy": 0, "First Aid": 0, "Cooking": 0},
+  "watchlist": [],
+  "max_rows": 25
+}
