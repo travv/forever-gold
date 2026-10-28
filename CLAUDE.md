@@ -1,6 +1,6 @@
 # forever-gold: Claude-assisted gold making in WoW: Forever
 
-Personal project for Travis (GitHub `travv`). It isn't work code: no client names, no HackerOne context.
+Personal project for Travis (GitHub `travv`). It isn't work code, so keep job and client context out of it.
 
 ## What this is
 - **`addon/ForeverGold/`:** a small WoW addon. It records AH scans, sale invoices, and bags, and shows the plan with price guards in the AH. Its own button creates an Auctionator buy list.
