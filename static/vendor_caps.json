@@ -1,0 +1,27 @@
+{
+  "12363": {
+    "cap": 500000,
+    "name": "Arcane Crystal",
+    "verified": false
+  },
+  "13468": {
+    "cap": 500000,
+    "name": "Black Lotus",
+    "verified": false
+  },
+  "249391": {
+    "cap": 50000,
+    "name": "Pyrite",
+    "verified": false
+  },
+  "249399": {
+    "cap": 50000,
+    "name": "Frilled Lichen",
+    "verified": false
+  },
+  "249427": {
+    "cap": 50000,
+    "name": "Pristine Leather",
+    "verified": false
+  }
+}

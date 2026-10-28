@@ -1,0 +1,237 @@
+
+ForeverGoldDB = {
+	["inventory"] = {
+		["Travv-Forever"] = {
+			["at"] = 1793931890,
+			["bags"] = {
+				[785] = 40,
+				[2318] = 8,
+				[2447] = 35,
+				[2589] = 12,
+				[6948] = 1,
+			},
+			["bank"] = {
+				[2450] = 10,
+				[2770] = 20,
+			},
+			["bankAt"] = 1793842320,
+			["money"] = 1234567,
+		},
+	},
+	["invoices"] = {
+		{
+			["bid"] = 440,
+			["buyout"] = 440,
+			["char"] = "Travv-Forever",
+			["commodity"] = true,
+			["count"] = 20,
+			["cut"] = 22,
+			["daysLeft"] = 29.901689814814816,
+			["delay"] = 0,
+			["deposit"] = 15,
+			["etaH"] = 0,
+			["etaM"] = 0,
+			["item"] = "Peacebloom",
+			["player"] = "Buyerone",
+			["seenAt"] = 1793842260,
+			["type"] = "seller",
+		}, -- [1]
+		{
+			["bid"] = 680,
+			["buyout"] = 680,
+			["char"] = "Travv-Forever",
+			["commodity"] = true,
+			["count"] = 20,
+			["cut"] = 34,
+			["daysLeft"] = 29.860023148148148,
+			["delay"] = 0,
+			["deposit"] = 30,
+			["etaH"] = 0,
+			["etaM"] = 0,
+			["item"] = "Mageroyal",
+			["seenAt"] = 1793842260,
+			["type"] = "seller",
+		}, -- [2]
+		{
+			["bid"] = 300,
+			["buyout"] = 300,
+			["char"] = "Travv-Forever",
+			["commodity"] = true,
+			["count"] = 5,
+			["cut"] = 15,
+			["daysLeft"] = 29.94335648148148,
+			["delay"] = 3600,
+			["deposit"] = 20,
+			["etaH"] = 20,
+			["etaM"] = 30,
+			["item"] = "Minor Healing Potion",
+			["player"] = "Healbot",
+			["seenAt"] = 1793842260,
+			["type"] = "seller_temp_invoice",
+		}, -- [3]
+		{
+			["bid"] = 640,
+			["buyout"] = 640,
+			["char"] = "Travv-Forever",
+			["commodity"] = true,
+			["count"] = 40,
+			["cut"] = 0,
+			["daysLeft"] = 29.776689814814816,
+			["delay"] = 0,
+			["deposit"] = 0,
+			["etaH"] = 0,
+			["etaM"] = 0,
+			["item"] = "Silverleaf",
+			["player"] = "Sellerguy",
+			["seenAt"] = 1793842260,
+			["type"] = "buyer",
+		}, -- [4]
+		{
+			["bid"] = 220,
+			["buyout"] = 220,
+			["char"] = "Travv-Forever",
+			["commodity"] = true,
+			["count"] = 20,
+			["cut"] = 11,
+			["daysLeft"] = 28.901689814814816,
+			["delay"] = 0,
+			["deposit"] = 6,
+			["etaH"] = 0,
+			["etaM"] = 0,
+			["item"] = "Linen Cloth",
+			["player"] = "Tailorjoe",
+			["seenAt"] = 1793842260,
+			["type"] = "seller",
+		}, -- [5]
+		{
+			["bid"] = 225,
+			["buyout"] = 225,
+			["char"] = "Travv-Forever",
+			["commodity"] = true,
+			["count"] = 5,
+			["cut"] = 11,
+			["daysLeft"] = 29.992007962961992,
+			["delay"] = 0,
+			["deposit"] = 10,
+			["etaH"] = 0,
+			["etaM"] = 0,
+			["item"] = "Copper Bar",
+			["player"] = "Smithy",
+			["seenAt"] = 1793931390,
+			["type"] = "seller",
+		}, -- [6]
+	},
+	["lastScanAt"] = 1793842514,
+	["probes"] = {
+		["deposit"] = {
+			[785] = {
+				100, -- [1]
+				100, -- [2]
+				192, -- [3]
+				["at"] = 1793931360,
+				["house"] = "Alliance",
+				["qty"] = 40,
+			},
+			[2319] = {
+				100, -- [1]
+				100, -- [2]
+				100, -- [3]
+				["at"] = 1793931360,
+				["house"] = "Alliance",
+				["qty"] = 10,
+			},
+		},
+	},
+	["scanLog"] = {
+		{
+			["by"] = "fg",
+			["gotAt"] = 1793842514,
+			["reqAt"] = 1793842510,
+			["result"] = "ok",
+			["rows"] = 44,
+		}, -- [1]
+		{
+			["by"] = "other",
+			["gotAt"] = 1793931390,
+			["reqAt"] = 0,
+			["result"] = "ok",
+			["rows"] = 7,
+		}, -- [2]
+	},
+	["scans"] = {
+		{
+			["at"] = 1793842514,
+			["bidOnly"] = 3,
+			["by"] = "fg",
+			["char"] = "Travv-Forever",
+			["data"] = "118:2:60x5,65x10;765:3:15x20,16x40,18x10;785:3:34x20,35x20,40x40;2318:3:20x10,22x20,23x2;2319:2:50x10,55x10;2447:8:1x1,20x20,21x20,22x220,23x8,25x100;2449:2:28x20,30x15;2450:3:45x20,46x20,50x10;2453:2:60x20,65x5;2454:2:90x5,100x1;2589:2:10x20,12x20;2770:2:25x20,30x10;2840:3:40x20,45x5,99999999999999x1;",
+			["faction"] = "Alliance",
+			["house"] = "Alliance",
+			["items"] = 13,
+			["own"] = 3,
+			["ownData"] = "118:1:70x5;785:1:38x20;",
+			["packMs"] = 32,
+			["priced"] = 37,
+			["realm"] = "Forever",
+			["region"] = 1,
+			["reqAt"] = 1793842510,
+			["rows"] = 44,
+			["v"] = 1,
+		}, -- [1]
+		{
+			["at"] = 1793931390,
+			["bidOnly"] = 0,
+			["by"] = "other",
+			["char"] = "Travv-Forever",
+			["data"] = "785:1:36x20;2319:1:65x10;2447:2:19x40,20x60;2450:1:39x20;2589:1:11x20;",
+			["faction"] = "Alliance",
+			["house"] = "Alliance",
+			["items"] = 5,
+			["own"] = 1,
+			["ownData"] = "785:1:38x10;",
+			["packMs"] = 32,
+			["priced"] = 6,
+			["realm"] = "Forever",
+			["region"] = 1,
+			["reqAt"] = 0,
+			["rows"] = 7,
+			["v"] = 1,
+		}, -- [2]
+	},
+	["schema"] = 1,
+	["sessions"] = {
+		{
+			["build"] = "70634",
+			["char"] = "Travv-Forever",
+			["copperOK"] = true,
+			["faction"] = "Alliance",
+			["id"] = "1793842200-Travv",
+			["iface"] = 16001,
+			["loginAt"] = 1793842200,
+			["planId"] = "20261104-1830-ab12",
+			["priorSessions"] = 0,
+			["project"] = 1,
+			["realm"] = "Forever",
+			["region"] = 1,
+			["version"] = "1.60.1",
+		}, -- [1]
+		{
+			["build"] = "70634",
+			["char"] = "Travv-Forever",
+			["copperOK"] = true,
+			["faction"] = "Alliance",
+			["id"] = "1793931300-Travv",
+			["iface"] = 16001,
+			["loginAt"] = 1793931300,
+			["planId"] = "20261105-1900-cd34",
+			["priorSessions"] = 1,
+			["project"] = 1,
+			["realm"] = "Forever",
+			["region"] = 1,
+			["version"] = "1.60.1",
+		}, -- [2]
+	},
+	["settings"] = {
+		["neverScan"] = false,
+	},
+}

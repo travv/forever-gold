@@ -1,0 +1,13 @@
+{
+  "ambiguous": [],
+  "build": "1.60.1.70634",
+  "counts": {
+    "items": 38,
+    "recipes": 5
+  },
+  "fallback": false,
+  "notes": [],
+  "product": "wowf",
+  "source": "subset of static/ for tests (tests/fixtures/handmade)",
+  "unresolved": []
+}

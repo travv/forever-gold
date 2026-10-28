@@ -1,0 +1,14 @@
+{
+  "Alliance": {
+    "cut": 0.05,
+    "deposit": 0.05
+  },
+  "Horde": {
+    "cut": 0.05,
+    "deposit": 0.05
+  },
+  "Neutral": {
+    "cut": 0.15,
+    "deposit": 0.25
+  }
+}

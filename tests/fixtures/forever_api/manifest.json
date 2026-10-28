@@ -1,0 +1,129 @@
+{
+  "failed": [],
+  "fetched_at": "2026-10-27T22:23:29Z",
+  "files": {
+    "gethe/AuctionHouseDocumentation.lua.txt": {
+      "bytes": 43476,
+      "emdash_replaced": 0,
+      "path": "Interface/AddOns/Blizzard_APIDocumentationGenerated/AuctionHouseDocumentation.lua",
+      "sha256": "d970632b8175ef98c07cd7876debdef2a29ca023a32063787f7796795cea2372",
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-source/ca8368f2f2380cbe696854f7f2646387c278a61b/Interface/AddOns/Blizzard_APIDocumentationGenerated/AuctionHouseDocumentation.lua"
+    },
+    "gethe/Backdrop.lua.txt": {
+      "bytes": 13290,
+      "emdash_replaced": 0,
+      "path": "Interface/AddOns/Blizzard_SharedXML/Backdrop.lua",
+      "sha256": "f3e392d8e8fa058cba9c03747ae32626b80e96cd6b34ffd643d34cdc75635618",
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-source/ca8368f2f2380cbe696854f7f2646387c278a61b/Interface/AddOns/Blizzard_SharedXML/Backdrop.lua"
+    },
+    "gethe/BagIndexConstantsDocumentation.lua.txt": {
+      "bytes": 2201,
+      "emdash_replaced": 0,
+      "path": "Interface/AddOns/Blizzard_APIDocumentationGenerated/BagIndexConstantsDocumentation.lua",
+      "sha256": "a79dae711666244af9636b0a89457d78a28af2a588f8791e5362cb6c361cf7a1",
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-source/ca8368f2f2380cbe696854f7f2646387c278a61b/Interface/AddOns/Blizzard_APIDocumentationGenerated/BagIndexConstantsDocumentation.lua"
+    },
+    "gethe/Constants.lua.txt": {
+      "bytes": 18018,
+      "emdash_replaced": 0,
+      "path": "Interface/AddOns/Blizzard_FrameXMLBase/Constants.lua",
+      "sha256": "2d0318cd0a1964a0fc38d26aed56a4248c4c8c662f62da78901a09070d84db7b",
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-source/ca8368f2f2380cbe696854f7f2646387c278a61b/Interface/AddOns/Blizzard_FrameXMLBase/Constants.lua"
+    },
+    "gethe/ContainerDocumentation.lua.txt": {
+      "bytes": 19085,
+      "emdash_replaced": 0,
+      "path": "Interface/AddOns/Blizzard_APIDocumentationGenerated/ContainerDocumentation.lua",
+      "sha256": "dd3e4741d45720384f814d3f78ce975dab3951458ae894e728ed3aedc8ae56b3",
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-source/ca8368f2f2380cbe696854f7f2646387c278a61b/Interface/AddOns/Blizzard_APIDocumentationGenerated/ContainerDocumentation.lua"
+    },
+    "gethe/UIManagerDocumentation.lua.txt": {
+      "bytes": 2215,
+      "emdash_replaced": 0,
+      "path": "Interface/AddOns/Blizzard_APIDocumentationGenerated/UIManagerDocumentation.lua",
+      "sha256": "3a7f80cedec49138ff4fce077d2b2b5078dd640975ee474a97d7db44010e02ed",
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-source/ca8368f2f2380cbe696854f7f2646387c278a61b/Interface/AddOns/Blizzard_APIDocumentationGenerated/UIManagerDocumentation.lua"
+    },
+    "ketho/Events.lua.txt": {
+      "bytes": 60667,
+      "emdash_replaced": 0,
+      "path": "Resources/Events.lua",
+      "sha256": "b3810548321d93c7d0f39b19bb74978ac44058103f3bacd29a543503a65be6fd",
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/Ketho/BlizzardInterfaceResources/d1ee569878094270c0ad8d8b00de0762158fd578/Resources/Events.lua"
+    },
+    "ketho/FrameXML.lua.txt": {
+      "bytes": 202644,
+      "emdash_replaced": 0,
+      "path": "Resources/FrameXML.lua",
+      "sha256": "c043160f823aa73933d5e5ececea3e713eb45583c04b00f4efe81dba339c00b7",
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/Ketho/BlizzardInterfaceResources/d1ee569878094270c0ad8d8b00de0762158fd578/Resources/FrameXML.lua"
+    },
+    "ketho/Frames.lua.txt": {
+      "bytes": 12081,
+      "emdash_replaced": 0,
+      "path": "Resources/Frames.lua",
+      "sha256": "e772026b5c05530b37a4c577b6564aff5543acb2959cd92c8e3fdabf643d0d60",
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/Ketho/BlizzardInterfaceResources/d1ee569878094270c0ad8d8b00de0762158fd578/Resources/Frames.lua"
+    },
+    "ketho/GlobalAPI.lua.txt": {
+      "bytes": 239575,
+      "emdash_replaced": 0,
+      "path": "Resources/GlobalAPI.lua",
+      "sha256": "749cec127cb36df09dcdf94aa49fd3d87126c2fa023bb6e38b205b39a454d2b2",
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/Ketho/BlizzardInterfaceResources/d1ee569878094270c0ad8d8b00de0762158fd578/Resources/GlobalAPI.lua"
+    },
+    "ketho/LuaEnum.lua.txt": {
+      "bytes": 219146,
+      "emdash_replaced": 0,
+      "path": "Resources/LuaEnum.lua",
+      "sha256": "9d038d7e612d7ef4839bf43205e3fb54a48c290545438afa8bfd0631bceefe28",
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/Ketho/BlizzardInterfaceResources/d1ee569878094270c0ad8d8b00de0762158fd578/Resources/LuaEnum.lua"
+    },
+    "ketho/Templates.lua.txt": {
+      "bytes": 378938,
+      "emdash_replaced": 0,
+      "path": "Resources/Templates.lua",
+      "sha256": "af83dd0d692a1c2d0bd6fe8700787e2600b73cd2789d750dce480400dcddbd58",
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/Ketho/BlizzardInterfaceResources/d1ee569878094270c0ad8d8b00de0762158fd578/Resources/Templates.lua"
+    },
+    "ketho/WidgetAPI.lua.txt": {
+      "bytes": 30515,
+      "emdash_replaced": 0,
+      "path": "Resources/WidgetAPI.lua",
+      "sha256": "227a8707d5a9d44ff1b057fc2ff3f9e663ae7dab31387ee54bed44349a29347f",
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/Ketho/BlizzardInterfaceResources/d1ee569878094270c0ad8d8b00de0762158fd578/Resources/WidgetAPI.lua"
+    }
+  },
+  "note": "Untrusted upstream data, parsed as text by tests/test_api_contract.py. Refresh: python3 tests/test_api_contract.py --refresh",
+  "sources": {
+    "gethe": {
+      "branch": "forever",
+      "commit": "ca8368f2f2380cbe696854f7f2646387c278a61b",
+      "commit_date": "2026-10-22T19:16:25Z",
+      "commit_message": "1.60.1 (70532)",
+      "ref": "forever",
+      "repo": "Gethe/wow-ui-source"
+    },
+    "ketho": {
+      "branch": "forever",
+      "commit": "d1ee569878094270c0ad8d8b00de0762158fd578",
+      "commit_date": "2026-10-21T22:43:14Z",
+      "commit_message": "1.60.1 (70532)",
+      "ref": "forever",
+      "repo": "Ketho/BlizzardInterfaceResources"
+    }
+  }
+}

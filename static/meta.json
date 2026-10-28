@@ -1,0 +1,22 @@
+{
+  "ambiguous": [],
+  "build": "1.60.1.70634",
+  "columns": {
+    "create_count": "EffectBasePointsF",
+    "skill": "max(MinSkillLineRank, TrivialSkillLineRankLow)"
+  },
+  "counts": {
+    "items": 19257,
+    "recipes": 1890,
+    "recipes_orphan_dropped": 115,
+    "recipes_unresolved_item_dropped": 310,
+    "vendor_caps": 5,
+    "vendor_reagents": 18
+  },
+  "fallback": false,
+  "fetched_at": "2026-10-28T00:57:59Z",
+  "notes": [],
+  "product": "wowf",
+  "source": "https://wago.tools/db2/<table>/csv?build=1.60.1.70634",
+  "unresolved": []
+}

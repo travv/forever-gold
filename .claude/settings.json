@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m fgold:*)",
+      "Bash(py -3 -m fgold:*)",
+      "Bash(python3 -m fgold:*)"
+    ],
+    "deny": [
+      "Edit(//**/_forever_/**)",
+      "Edit(//**/Interface/AddOns/**)",
+      "Edit(**/PlanData.lua)"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+"2329": {"out":2454,"out_count":1,"reagents":[[2449,1],[765,1],[3371,1]],"skill":55,"skill_line":171},
+"3275": {"out":1251,"out_count":1,"reagents":[[2589,1]],"skill":30,"skill_line":129},
+"3276": {"out":2581,"out_count":1,"reagents":[[2589,2]],"skill":50,"skill_line":129},
+"1244431": {"out":118,"out_count":1,"reagents":[[3371,1],[2678,1],[2447,1]],"skill":55,"skill_line":129},
+"1244432": {"out":858,"out_count":1,"reagents":[[3371,1],[2678,2],[2450,1]],"skill":85,"skill_line":129}
+}

@@ -160,7 +160,7 @@ He ranks by **gold relative to time spent in game**, not raw gold. These are mac
 | **S** | **Alchemy, Enchanting** | Alchemy: bulk consumables "sell like candy" all game. Single-character raiders buy an hour before raid. Flasks are the same at a higher margin. Enchanting: one-time recipe costs, tips, zero-deposit mats, and a tailoring→DE factory. |
 | **Red / off-chart** | **Investing** | "Almost always the best way" because it scales the most, if you call it right. |
 | **A** | Leatherworking, Tailoring, Blacksmithing | Strong for **high-value items** (one sale at +200g beats 20 sales at +10g). Mostly one-time purchases, though. LW: leg armor kits, Devilsaur. Tailoring: bags, craft→DE (Runecloth Belt → Dream Dust / Lesser Eternal). BS: Elemental Sharpening Stones (~2-3g profit early), but watch the **high deposit costs** on weapons. |
-| **A?** | Selling loot (pay-on-drop carries, e.g. Hand of Justice, ZG idols, farming Hedge in BRD) | Viable and strong per hour. Not his style. GDKP is likely still banned. |
+| ~~A?~~ | ~~Selling loot (pay-on-drop carries, e.g. Hand of Justice, ZG idols, farming Hedge in BRD)~~ | **Don't (2026-10-27 research):** GDKP is banned in Forever (Aggrend, BlizzCon Q&A), and Blizzard's gold-buying article says to accept gold only from the character that made the agreement. Loot-for-gold deals are the pattern its RMT enforcement and Economy Holds target. See docs/ideas.md. |
 | **B** | Herbalism, Mining, Cooking | **Herbalism beats mining**: potions are consumed all game, but ore crashes after 6-7 months once people finish leveling BS/engineering (he made money on thorium at 15s around month 9-10). Cooking: ~30% margins at low volume, plus Forever adds food for every class. |
 | **B★** | Flipping | Very good if you know what you're doing, but the bottleneck is real-life time (weeks to make ~1,000g). Reference: Nick B's 1g→10,000g level-1 flipping series. |
 | **C** | Fishing, Skinning | Fishing is "mid glow-up" (new uncommon/rare fish at campsites) but limited by slow casts. Skinning is contested (Devilsaur mafia) and best as an add-on to other farms or for leveling LW. |
@@ -285,7 +285,7 @@ These are the beta-era unknowns Gillee flags. Revisit them before acting:
 - [ ] How Forever scales max-level quest XP→gold, and whether ~60g/hr questing at 60 holds up.
 - [ ] Which vanilla recipes and BiS items survive or get nerfed (Lionheart, Titanic, Corehound, Devilsaur, +4 stats).
 - [ ] Phase schedule and which raids need which resistance or consumables (drives the investment calendar).
-- [ ] Whether boosting is actually dead, and whether GDKP is still banned.
+- [ ] Whether boosting is actually dead. (GDKP: answered, it's banned in Forever.)
 - [ ] Net effect of the new gold sinks (BMAH, dual respecs) vs new sources (waylaid crates, extra quests) on inflation.
 - [ ] Can level 1 alts really craft (bags, sharpening stones) in Forever, and up to what skill?
 - [ ] Is herbalism actually tied into First Aid in Forever, and how?

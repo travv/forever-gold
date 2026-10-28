@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: ForeverGold
+## Notes: Shows a Claude-made gold plan and records AH scans and sales. Never buys, posts or cancels for you.
+## Author: travv
+## Version: 0.1.0
+## SavedVariables: ForeverGoldDB
+## OptionalDeps: Auctionator
+PlanDefault.lua
+PlanData.lua
+Core.lua
+Scan.lua
+Ledger.lua
+Bridge.lua
+UI.lua
